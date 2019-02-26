@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cookbook on Sous Chefs</title>
+    <link>https://sous-chefs.org/topics/cookbook/</link>
+    <description>Recent content in Cookbook on Sous Chefs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Feb 2019 20:24:17 -0500</lastBuildDate>
+    
+	<atom:link href="https://sous-chefs.org/topics/cookbook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sous-Chefs Cookbook Best Practises</title>
+      <link>https://sous-chefs.org/best-practices/</link>
+      <pubDate>Fri, 15 Feb 2019 20:24:17 -0500</pubDate>
+      
+      <guid>https://sous-chefs.org/best-practices/</guid>
+      <description>Cookbook Best Practices If we&amp;rsquo;re adopting a cookbook and trying to bring it up to scratch, these are likely the first things people will expect.
+Platform Support The majority of our survey userbase uses the following and as such as aim to support these platforms by default:
+ Centos 6/7 Debian 8/9 Ubuntu 16.04/18.04 Amazon 1 and 2  Custom Resources over Attribute Driven Our cookbooks are application cookbooks, and therefore designed to only manage a single type of application at a time.</description>
+    </item>
+    
+  </channel>
+</rss>

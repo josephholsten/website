@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meeting on Sous Chefs</title>
+    <link>https://sous-chefs.org/topics/meeting/</link>
+    <description>Recent content in Meeting on Sous Chefs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Sep 2018 20:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sous-chefs.org/topics/meeting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2018-09-24 Weekly Sous-Chefs Meeting</title>
+      <link>https://sous-chefs.org/posts/2018-09-24/</link>
+      <pubDate>Mon, 24 Sep 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://sous-chefs.org/posts/2018-09-24/</guid>
+      <description> Where https://chefcommunity.slack.com/messages/sous-chefs
+Agenda Development News  postgresql sc-nxlog AOB SC-NXlog Vault &amp;amp; Consul Cookbooks  </description>
+    </item>
+    
+    <item>
+      <title>2018-09-17 Weekly Sous-Chefs Meeting</title>
+      <link>https://sous-chefs.org/posts/2018-09-17/</link>
+      <pubDate>Mon, 17 Sep 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://sous-chefs.org/posts/2018-09-17/</guid>
+      <description> Where https://chefcommunity.slack.com/messages/sous-chefs
+Agenda Development News  CircleCI update https://github.com/sous-chefs/postgresql/pull/559 Github Terraform apache2 line sc-nxlog AOB Vault  Github Terraform  CI pipeline needs feedback to users. Ben Abrams suggested using Atlantis. Needs codeowners file  SC-NXlog  Needs releasing soon..!  Vault &amp;amp; Consul Cookbooks  Needs to be unpoised  </description>
+    </item>
+    
+    <item>
+      <title>2018-09-03 Weekly Sous-Chefs Meeting</title>
+      <link>https://sous-chefs.org/posts/2018-09-03/</link>
+      <pubDate>Mon, 03 Sep 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://sous-chefs.org/posts/2018-09-03/</guid>
+      <description> Where https://chefcommunity.slack.com/messages/sous-chefs
+Agenda Development News  CircleCI update https://github.com/sous-chefs/postgresql/pull/559
+ apache2
+ postgresql
+ openvpn
+ haproxy
+ graphite
+ snort
+ redisio (external)
+ foodcritic (external)
+  Projects website  sc-generator sc-foodcritic-rules  Actions </description>
+    </item>
+    
+  </channel>
+</rss>
